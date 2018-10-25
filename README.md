@@ -5,3 +5,7 @@
 
 + **Item 1**
 + *Item 2*
+
+'''C++
+int rand() { return 3;}
+'''
