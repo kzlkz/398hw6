@@ -6,6 +6,6 @@
 + **Item 1**
 + *Item 2*
 
-'''C++
+```C++
 int rand() { return 3;}
-'''
+```
